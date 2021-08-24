@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  projectA
 //
-//  Created by SW_mac04 on 2021/08/24.
+//  Created by SW_mac04 on 2021/08/23.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  projectA
 //
-//  Created by SW_mac04 on 2021/08/24.
+//  Created by SW_mac04 on 2021/08/23.
 //
 
 import UIKit
@@ -13,9 +13,30 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        print("abc")
         return true
     }
+        
+    func applicationDidBecomeActive(_ application: UIApplication) {
+        print("applicationDidBecomeActive")
+    }
+        
+    func applicationWillTerminate(_ application: UIApplication) {
+        print("applicationWillTerminate")
+    }
+        
+    func applicationWillResignActive(_ application: UIApplication) {
+        print("applicationWillResignActive")
+    }
+        
+    func applicationDidEnterBackground(_ application: UIApplication) {
+        print("applicationDidEnterBackground")
+    }
+        
+    func applicationWillEnterForeground(_ application: UIApplication) {
+        print("applicationWillEnterForeground")
+    }
+        
 
     // MARK: UISceneSession Lifecycle
 
