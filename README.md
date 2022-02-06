@@ -2,6 +2,10 @@
 
 </br>
 
+[공지사항 - 2021년 SW전공자를 위한 개발자 과정 『Swift 기반 iOS 모바일 개발』 교육 안내](https://swedu.pusan.ac.kr/swedu/31630/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3dlZHUlMkY2OTA2JTJGODc2OTA1JTJGYXJ0Y2xWaWV3LmRvJTNGYmJzT3BlbldyZFNlcSUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnNyY2hDb2x1bW4lM0QlMjZwYWdlJTNEMSUyNnNyY2hXcmQlM0QlMjZyZ3NCZ25kZVN0ciUzRCUyNmJic0NsU2VxJTNEJTI2cGFzc3dvcmQlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNg%3D%3D)
+
+</br>
+
 부산대학교 소프트웨어교육센터에서는 iOS 개발에 관심 있는 SW전공자 학생들에게 앱 개발 경험을 제공하고 취업 시 포트폴리오로 활용할 수 있게 하기 위하여 아래와 같이 교육과정을 운영하고자 합니다. 관심 있는 학생들의 많은 참여를 바랍니다.
 
 </br>
